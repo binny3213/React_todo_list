@@ -1,5 +1,6 @@
-created a sleek and functional to-do list application using React.
-This app allows users to effortlessly add, delete, and mark tasks as complete, all within a clean and intuitive interface.
+### About :
+created a sleek and functional to-do list application using React.<br>
+This app allows users to effortlessly add, delete, and mark tasks as complete, all within a clean and intuitive interface.<br>
 Leveraging React’s powerful state management with hooks like useState, I ensured the app is highly responsive and dynamic. 
 
 ### :hammer_and_wrench: Languages and Tools :
